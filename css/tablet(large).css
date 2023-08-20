@@ -1,0 +1,47 @@
+@media(max-width: 1024px) {
+
+
+    /* header */
+
+    .main_header_ul {
+        gap: 44px;
+
+    }
+
+
+    /* section_1 */
+
+    .section_1 {
+        width: 100%;
+        /* height: 862px; */
+        height: 798px;
+        display: flex;
+        padding: 32px;
+        flex-direction: column;
+        align-items: center;
+        
+
+    }
+
+    .section_1_div {
+        text-align: center;
+        width: 59%;
+        height: 268px;
+        
+        
+    }
+
+    .section_text {
+        margin: 24px auto;
+        margin-bottom: 20px ;
+        width: 90%;
+    }
+
+    .section_1_img{
+        
+        width: 100%;
+        
+        
+    }
+
+}

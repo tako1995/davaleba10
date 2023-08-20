@@ -1,0 +1,38 @@
+@media (max-width:375px ){
+
+    .fa-bars{
+        display: block;
+    }
+
+    .main_header_nav{
+        display: none;
+    }
+    .main_header_button{
+        display: none;
+    }
+
+
+ /* section_1 */
+
+ .section_1{
+height: 611px;
+padding: 0px 24px 21px 24px;
+gap: 24px;
+flex-direction: column;
+ }
+
+ .section_1_div{
+    width: 100%;
+    height: 281px;
+    /* border: 10px solid red; */
+
+    
+}
+
+.section_tabletsmall_text {
+    display: none;
+
+}
+
+
+}
